@@ -1,11 +1,11 @@
-# Newscatcher
+# Newscatcher Hub
 **Programmatically collect normalized news from (almost) any website.**
 
 Filter by **topic**, **country**, or **language**.
 
 Created by [newscatcherapi.com](https://www.newscatcherapi.com) but you do not need anything from us or from anyone else to get the software going, it just works out of the box.
 
-## Demo
+## Demo Lec
 ![](newscatcherdemo.gif)
 
 ## Motivation
@@ -23,11 +23,11 @@ with your next project.
 Even though I do not recommend to use this package for any production systems, 
 I believe that it should be enough to test your assumptions and build some MVPs.
 
-## Installation
+## Installation process 
 `pip install newscatcher --upgrade` 
 
 
-## Quick Start
+## Quick Begin
 ```python
 from newscatcher import Newscatcher
 ```
